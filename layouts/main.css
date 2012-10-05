@@ -291,8 +291,9 @@ hr{
 }
 
 .social-links{
-    display: inline;
+    display: inline-block;
     float: right;
+    vertical-align: middle;
 }
 .hosts{
     list-style: none;
